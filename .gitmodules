@@ -10,3 +10,6 @@
 [submodule "src/px4_msgs"]
 	path = src/px4_msgs
 	url = https://github.com/PX4/px4_msgs.git
+[submodule "src/gece_es"]
+	path = src/gece_es
+	url = git@github.com:wsmj/gece_es.git
