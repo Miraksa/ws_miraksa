@@ -4,3 +4,6 @@
 [submodule "src/dummy_server"]
 	path = src/dummy_server
 	url = git@github.com:wsmj/dummy_server.git
+[submodule "src/bacok"]
+	path = src/bacok
+	url = git@github.com:wsmj/bacok.git
