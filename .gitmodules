@@ -1,0 +1,3 @@
+[submodule "src/mripat"]
+	path = src/mripat
+	url = git@github.com:wsmj/mripat.git

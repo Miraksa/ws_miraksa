@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ambatron/Developer/ws_fighter/install/px4_ros_com/local/lib/python3.10/dist-packages",
+        "/home/ambatron/Developer/ws_fighter/install/gece_es/lib/python3.10/site-packages",
+        "/home/ambatron/Developer/ws_fighter/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/home/ambatron/Developer/ws_fighter/install/mripat/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ambatron/Developer/ws_fighter/install/px4_ros_com/local/lib/python3.10/dist-packages",
+        "/home/ambatron/Developer/ws_fighter/install/gece_es/lib/python3.10/site-packages",
+        "/home/ambatron/Developer/ws_fighter/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/home/ambatron/Developer/ws_fighter/install/mripat/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
