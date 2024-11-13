@@ -1,0 +1,27 @@
+# ROS 2 build and install directories
+/build/
+/install/
+/log/
+
+# Colcon build and test artifacts
+.colcon/
+test_results/
+
+# JetBrains IDEs (e.g., CLion, PyCharm)
+.idea/
+*.iml
+
+# Python virtual environment
+venv/
+.env/
+env/
+
+# Temporary files
+*~
+*.tmp
+.DS_Store
+Thumbs.db
+
+# ROS 2 debugging and cache files
+.cache/
+.ros/
