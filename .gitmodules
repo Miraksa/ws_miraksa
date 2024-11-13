@@ -1,3 +1,6 @@
 [submodule "src/mripat"]
 	path = src/mripat
 	url = git@github.com:wsmj/mripat.git
+[submodule "src/dummy_server"]
+	path = src/dummy_server
+	url = git@github.com:wsmj/dummy_server.git
