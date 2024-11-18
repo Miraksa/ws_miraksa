@@ -13,3 +13,6 @@
 [submodule "src/gece_es"]
 	path = src/gece_es
 	url = git@github.com:wsmj/gece_es.git
+[submodule "src/bohoso"]
+	path = src/bohoso
+	url = git@github.com:wsmj/bohoso.git
