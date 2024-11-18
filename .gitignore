@@ -25,5 +25,3 @@ Thumbs.db
 # ROS 2 debugging and cache files
 .cache/
 .ros/
-
-.vscode
